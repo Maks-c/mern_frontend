@@ -16,7 +16,7 @@ import { useDispatch } from 'react-redux';
 
 
 export const App = () => {
-  const dispatch = useDispatch();
+  // const dispatch = useDispatch();
   // useEffect(() => {
   //   dispatch(getMe());
   // }, [dispatch]);
